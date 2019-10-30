@@ -113,6 +113,9 @@ MonoBehaviour:
   maxTimeBetweenShots: 3
   projecile: {fileID: 8719243411798139417, guid: 082749f635f03a342a78a0e3be6aae2f,
     type: 3}
+  deathVFX: {fileID: 7121919062617736547, guid: 003aa3a61111c7347a21da4676a31259,
+    type: 3}
+  durationOfExplosion: 1
   projectileSpeed: 10
 --- !u!58 &1022226930084807246
 CircleCollider2D:
